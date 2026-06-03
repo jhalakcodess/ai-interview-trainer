@@ -23,6 +23,13 @@ The application asks AI/ML interview questions, collects responses, evaluates an
 To build an intelligent interview preparation assistant that helps users improve their confidence and technical interview skills.
 
 ## 📈 Future Improvements
+## Version 2 Features
+
+- Role selection
+- AI/ML Engineer interview mode
+- Data Analyst interview mode
+- Python Developer interview mode
+- Improved feedback system
 
 - NLP-based answer evaluation
 - Resume-based interview questions
